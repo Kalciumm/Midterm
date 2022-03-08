@@ -1,6 +1,7 @@
 #include "LogicUpdateLayer.h"
 #include "../Application.h"
 #include "../Timing.h"
+#include "Gameplay/GameObject.h"
 
 LogicUpdateLayer::LogicUpdateLayer() :
 	ApplicationLayer()
